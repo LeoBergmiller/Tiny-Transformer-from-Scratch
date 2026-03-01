@@ -4,4 +4,4 @@ Minimal Transformer LM from scratch (PyTorch) for Shakespeare Text Generation, f
 - RMSNorm
 - Training Curves
 - Attention Heatmaps
-- Sample generation.
+- Sample generation
