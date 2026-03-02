@@ -14,3 +14,7 @@ A minimal Transformer language model trained on the Tiny Shakespeare corpus for 
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+```
+
+## Notes 
+- Includes a `FAST_DEV_RUN` toggle for fast runs vs longer training.
